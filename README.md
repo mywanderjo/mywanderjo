@@ -34,6 +34,18 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mywanderjo&show_icons=true&locale=en&theme=radical" alt="mywanderjo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mywanderjo&&theme=radical" alt="mywanderjo" /></p>
+
+<a href="https://github.com/mywanderjo/tor-security">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mywanderjo&repo=tor-security&theme=radical" alt="tor-security">
+  </a>
+
+<a href="https://github.com/mywanderjo/mywanderjo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mywanderjo&repo=mywanderjo&theme=radical" alt="mywanderjo">
+  </a>
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
