@@ -1,5 +1,5 @@
 ![logo](https://github.com/mywanderjo/mywanderjo/blob/main/Image.png)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mywanderjo&label=Profile%20views&color=0e75b6&style=flate" alt="mywanderjo" /> </p>
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm mywanderjo </h1>
 <h3 align="center"><font face="Arial"><a href="https://github.com/mywanderjo" target="_blank" rel="noreferrer">mywanderjo</a> I am a dedicated DevOps Engineer based in India, specializing in Cloud and DevOps with over 3 years of experience. Open to collaboration on freelance projects.</font></h3>
